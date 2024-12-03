@@ -33,3 +33,11 @@ To run the script using the Python interpreter, execute the following command:
 ```bash
 python numpy_examples.py
 
+---
+## 📂 Code Highlights
+
+### Array Initialization
+```python
+a = np.full((3, 3, 4), 9)
+print(a)
+
