@@ -23,3 +23,13 @@ A comprehensive Python script showcasing various functionalities of the **NumPy*
 2. Install NumPy using pip:
    ```bash
    pip install numpy
+
+---
+
+## 🚀 Usage
+
+To run the script using the Python interpreter, execute the following command:
+
+```bash
+python numpy_examples.py
+
